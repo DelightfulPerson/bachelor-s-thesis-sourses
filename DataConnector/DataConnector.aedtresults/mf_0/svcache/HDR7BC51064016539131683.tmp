@@ -1,0 +1,93 @@
+SimValueCacheVersionID=1
+$begin 'SimValueInfos'
+	NextUniqueID=2
+	MoveBackwards=false
+	$begin 'SimValue'
+		ID=0
+		$begin 'SimValueParams'
+			QuantityName='DataConnector1.ToSimp1'
+			ValueState(90, 15, 1, 1)
+			MatrixSize(0, 0)
+		$end 'SimValueParams'
+	$end 'SimValue'
+	$begin 'SimValue'
+		ID=1
+		$begin 'SimValueParams'
+			QuantityName='DataConnector1.ToSimp2'
+			ValueState(90, 15, 1, 1)
+			MatrixSize(0, 0)
+		$end 'SimValueParams'
+	$end 'SimValue'
+	$begin 'InfoServer2'
+		InfoServer2ID=0
+		$begin 'DesignMap'
+			DesignID=0
+			$begin 'SolutionMap'
+				$begin 'ContextMap'
+					SolutionID=0
+					$begin 'VersionMap'
+						$begin 'ReportTypeSolnDef'
+							ReportType=0
+							SimValueContext(1, 0, 2, 0, false, false, -1, 1, 0, 1, 1, '', 0, 0)
+						$end 'ReportTypeSolnDef'
+						$begin 'Elem'
+							VersionID=0
+							$begin 'InfoAtCtxtVersion'
+								$begin 'QtyValueStateInfo'
+									'DataConnector1.ToSimp1'(90, 15, 1, 1)
+									'DataConnector1.ToSimp2'(90, 15, 1, 1)
+								$end 'QtyValueStateInfo'
+								$begin 'CompQtyInfo'
+								$end 'CompQtyInfo'
+								$begin 'EnumQtyInfo'
+								$end 'EnumQtyInfo'
+								$begin 'EnumReps'
+								$end 'EnumReps'
+							$end 'InfoAtCtxtVersion'
+						$end 'Elem'
+						$begin 'Elem'
+							VersionID=4
+							$begin 'InfoAtCtxtVersion'
+								$begin 'QtyValueStateInfo'
+									'DataConnector1.ToSimp1'(90, 15, 1, 1)
+									'DataConnector1.ToSimp2'(90, 15, 1, 1)
+								$end 'QtyValueStateInfo'
+								$begin 'CompQtyInfo'
+								$end 'CompQtyInfo'
+								$begin 'EnumQtyInfo'
+								$end 'EnumQtyInfo'
+								$begin 'EnumReps'
+								$end 'EnumReps'
+							$end 'InfoAtCtxtVersion'
+						$end 'Elem'
+						$begin 'Elem'
+							VersionID=6
+							$begin 'InfoAtCtxtVersion'
+								$begin 'QtyValueStateInfo'
+									'DataConnector1.ToSimp1'(90, 15, 1, 1)
+									'DataConnector1.ToSimp2'(90, 15, 1, 1)
+								$end 'QtyValueStateInfo'
+								$begin 'CompQtyInfo'
+								$end 'CompQtyInfo'
+								$begin 'EnumQtyInfo'
+								$end 'EnumQtyInfo'
+								$begin 'EnumReps'
+								$end 'EnumReps'
+							$end 'InfoAtCtxtVersion'
+						$end 'Elem'
+					$end 'VersionMap'
+				$end 'ContextMap'
+			$end 'SolutionMap'
+		$end 'DesignMap'
+	$end 'InfoServer2'
+$end 'SimValueInfos'
+$begin 'SimValueCache'
+	$begin 'DesignMap'
+		DesignID=0
+		$begin 'SolutionMap'
+			$begin 'ContextMap'
+				SolutionID=0
+			$end 'ContextMap'
+		$end 'SolutionMap'
+	$end 'DesignMap'
+$end 'SimValueCache'

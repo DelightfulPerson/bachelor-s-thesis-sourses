@@ -1,0 +1,36 @@
+$begin 'Profile'
+	$begin 'ProfileGroup'
+		MajorVer=2021
+		MinorVer=1
+		Name='Solution Process'
+		StartInfo='Time:  05/31/2022 17:11:32, Host DSMAINPC'
+		TotalInfo='Time:  05/31/2022 17:11:55, Status: Normal Completion'
+		ProfileItem('', 0, 0, 0, 0, 0, 'I(1, 0, \'\')', false, true)
+		ProfileItem('Analysis', 22, 379749, 0, 296000, 39448, 'I(1, 0, \'Elapsed time : 00:00:22 , SimplorerCOMEngine Memory : 38.5 M\')', true, true)
+	$end 'ProfileGroup'
+	$begin 'ProfileGroup'
+		MajorVer=2021
+		MinorVer=1
+		Name='Solution Process'
+		StartInfo='Time:  05/31/2022 17:12:12, Host DSMAINPC'
+		TotalInfo='Time:  05/31/2022 17:12:34, Status: Normal Completion'
+		ProfileItem('', 0, 0, 0, 0, 0, 'I(1, 0, \'\')', false, true)
+		ProfileItem('Analysis', 21, 818345, 0, 265000, 39408, 'I(1, 0, \'Elapsed time : 00:00:21 , SimplorerCOMEngine Memory : 38.5 M\')', true, true)
+	$end 'ProfileGroup'
+	$begin 'ProfileGroup'
+		MajorVer=2021
+		MinorVer=1
+		Name='Solution Process'
+		StartInfo='Time:  05/31/2022 17:12:47, Host DSMAINPC'
+		TotalInfo='Terminated abnormally'
+	$end 'ProfileGroup'
+	$begin 'ProfileGroup'
+		MajorVer=2021
+		MinorVer=1
+		Name='Solution Process'
+		StartInfo='Time:  05/31/2022 17:15:06, Host DSMAINPC'
+		TotalInfo='Time:  05/31/2022 17:15:51, Status: Normal Completion'
+		ProfileItem('', 0, 0, 0, 0, 0, 'I(1, 0, \'\')', false, true)
+		ProfileItem('Analysis', 45, 226435, 0, 266000, 39404, 'I(1, 0, \'Elapsed time : 00:00:45 , SimplorerCOMEngine Memory : 38.5 M\')', true, true)
+	$end 'ProfileGroup'
+$end 'Profile'
